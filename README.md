@@ -6,6 +6,10 @@ This code can be adapted for use in a sniper bot or copy trading bot.
 
 If you can - please support my work and donate to: 3pPK76GL5ChVFBHND54UfBMtg36Bsh1mzbQPTbcK89PD
 
+```
+pip install websocket-client solders construct
+```
+
 ## Contact ##
 
 My services are for hire. Contact me if you need help integrating the code into your own project.
