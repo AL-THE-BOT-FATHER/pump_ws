@@ -1,4 +1,4 @@
-## Pump Fun Websocket ##
+## Pump Websocket ##
 
 Monitors Pump Fun mint, trade events, and Pump Swap Pool creation in real-time via WebSocket, using a WSS URL from providers like Helius or QuickNode. 
 
