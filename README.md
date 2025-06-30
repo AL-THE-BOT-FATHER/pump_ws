@@ -1,6 +1,6 @@
 ## Pump Websocket ##
 
-Monitors Pump Fun mint, trade events, and Pump Swap Pool creation in real-time via WebSocket, using a WSS URL from providers like Helius or QuickNode. 
+Monitors Pump Fun create events, trade events, and Pump Swap create events in real-time via WebSocket, using a WSS URL from providers like Helius or QuickNode. 
 
 This code can be adapted for use in a sniper bot or copy trading bot.
 
