@@ -14,4 +14,6 @@ pip install websocket-client solders construct
 
 My services are for hire. Contact me if you need help integrating the code into your own project.
 
-Telegram: @AL_THE_BOT_FATHER
+Telegram: https://t.me/AL_THE_BOT_FATHER
+
+Group Telegram: https://t.me/Bot_Mafia_Support
