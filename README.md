@@ -16,4 +16,3 @@ My services are for hire. Contact me if you need help integrating the code into 
 
 Telegram: https://t.me/AL_THE_BOT_FATHER
 
-Group Telegram: https://t.me/Bot_Mafia_Support
